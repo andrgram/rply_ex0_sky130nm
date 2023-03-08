@@ -1,0 +1,47 @@
+magic
+tech sky130B
+magscale 1 2
+timestamp 1678287259
+<< locali >>
+rect 660 340 760 640
+rect 1040 340 1140 640
+rect 1460 340 1560 640
+rect 1840 340 1940 640
+rect 2260 340 2360 640
+rect 2640 340 2740 640
+rect 3060 340 3160 640
+rect 3440 340 3540 640
+rect 3860 340 3960 640
+rect 4240 340 4340 640
+rect 680 -100 1120 -60
+rect 1480 -100 1920 -60
+rect 2280 -100 2720 -60
+rect 3080 -100 3520 -60
+rect 3880 -100 4320 -60
+rect 600 -200 4400 -100
+<< metal1 >>
+rect 2474 908 2527 912
+rect 800 862 4203 908
+rect 2474 794 2527 862
+rect 800 32 4203 78
+use sky130_fd_pr__nfet_01v8_5CE34N  sky130_fd_pr__nfet_01v8_5CE34N_0
+timestamp 1678286424
+transform 1 0 4097 0 1 470
+box -297 -570 297 570
+use sky130_fd_pr__nfet_01v8_5CE34N  sky130_fd_pr__nfet_01v8_5CE34N_1
+timestamp 1678286424
+transform 1 0 897 0 1 470
+box -297 -570 297 570
+use sky130_fd_pr__nfet_01v8_5CE34N  sky130_fd_pr__nfet_01v8_5CE34N_2
+timestamp 1678286424
+transform 1 0 1697 0 1 470
+box -297 -570 297 570
+use sky130_fd_pr__nfet_01v8_5CE34N  sky130_fd_pr__nfet_01v8_5CE34N_3
+timestamp 1678286424
+transform 1 0 2497 0 1 470
+box -297 -570 297 570
+use sky130_fd_pr__nfet_01v8_5CE34N  sky130_fd_pr__nfet_01v8_5CE34N_4
+timestamp 1678286424
+transform 1 0 3297 0 1 470
+box -297 -570 297 570
+<< end >>
